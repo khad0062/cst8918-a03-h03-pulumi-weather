@@ -1,0 +1,9 @@
+config:
+  azure-native:location: westus3
+  cst8918-a03-infraa:appPath: ../
+  cst8918-a03-infraa:containerPort: '80'
+  cst8918-a03-infraa:publicPort: '80'
+  cst8918-a03-infraa:cpu: '1'
+  cst8918-a03-infraa:memory: '2'
+  cst8918-a03-infraa:prefixName: 'cst8918a03khad0062'
+  cst8918-a03-infraa:imageTag: 'v0.2.0'
